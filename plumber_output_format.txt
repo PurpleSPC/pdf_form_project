@@ -1,0 +1,24 @@
+[
+	0[
+		0['Name\nEmily Russell', 'Rep ID#'], 
+		1['Agency Name, Address & Phone Number\nOrtho-Max, Inc.\n4213 SW High Meadows Ave\nPalm City FL 34990\n(772) 220-6965', 'Email PO To\norders@ortho-max.net'], 
+		2[None, 'Fax PO To\n(772) 220-0114']
+	], 
+	1[
+		0['Account Name\nAdventHealth Deland', 'Hospital Account ID#\n-'], 
+		1['Billing Address\n701 W. Plymouth Avenue Deland FL 32720', 'Shipping Address\n-'], 
+		2['Purchase Order #\n-', 'Medartis Order #\n-']
+	], 
+	2[
+		0['Date\nJul 29, 2022', 'Surgeon (Last, First, MI)\nCavins Zachary', '', 'TRAY 604340'], 
+		1['Surgery Type\nBunionectomy', 'Patient ID', None, None]
+	], 
+	3[
+		0......n['Catalog #', 'Lot #', 'Expiry', 'Description', 'From Set', 'Rstk', 'I/O', 'Qty', 'Unit Price', 'Extended Price'], ['A-5040.00/1', '', '', '0.8 K-Wire, Trocar, 100mm, 1/Pkg', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$21.32', '$21.32'], ['A-3937', '', '', '2.2 CCS Countersink, Cannulated, AO', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$200.36', '$200.36'], ['A-3736', '', '', '2.2 Cannulated Twist Drill #1.8,L87mm,AO', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$285.01', '$285.01'], ['A-5780.22/1', '', '', '2.2 Cannulated ComprScrew 22mm,HD7,1/Pkg Distal\nThread 5mm', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$254.56', '$254.56'], ['A-5040.10/1', '', '', '1.1 K-Wire, Trocar, 100mm, 1/Pkg', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '3', '$21.32', '$63.96'], ['A-3836', '', '', '3.0 Cannulated Twist Drill #2.1,L87mm,AO', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '2', '$285.01', '$570.02'], ['A-3938', '', '', '3.0 CCS Countersink, Cannulated, AO', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$206.16', '$206.16'], ['A-5881.40/1', '', '', '3.0 Cannulated ComprScrew40mm,HD10,1/Pkg Distal\nThread 15mm', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$254.56', '$254.56'], ['A-5880.36/1', '', '', '3.0 Cannulated ComprScrew36mm,HD10,1/Pkg Distal\nThread 7mm', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$254.56', '$254.56'], ['A-5880.30/1', '', '', '3.0 Cannulated ComprScrew30mm,HD10,1/Pkg Distal\nThread 6mm', 'MED-CCS 2.2/3.0\nHL-...', 'Yes', 'No', '1', '$254.56', '$254.56'], [None, None, None, None, None, None, None, None, 'Subtotal', '$2,365.07']
+	], 
+	4[
+		0['First and Last Name (or Loaner Set ID#)\nEmily Russell', 'Ship To Acct #', 'Instrument Charge', '$0.00'], 
+		1['Address, City, State, Zip\n1413 Viscaya Cove Blvd Winter Garden FL 34787', None, 'Shipping & Delivery', '$0.00'], 
+		2['Required Date\nJul 30, 2022', None, 'Total', '$2,365.07']
+	]
+]
